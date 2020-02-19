@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="homework-profitsoft:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="homework-profitsoft-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="homework-profitsoft:war exploded" />
-    </root>
-  </artifact>
-</component>
